@@ -18,3 +18,6 @@
 # Usage and Results
  Simply run "createImage-manual.py" program enter the details.
  Then the post will be generated as "result-manual.jpg" and caption will be copied into your clipboard such that you just have to paste it.
+
+# Contributors
+ Post Design Template by Kanishka Jayalath
