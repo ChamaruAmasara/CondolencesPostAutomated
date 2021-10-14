@@ -1,5 +1,4 @@
-import os 
-import random
+import os
 dir_path = os.path.dirname(os.path.realpath(__file__))
 
 from PIL import Image, ImageFont, ImageDraw
