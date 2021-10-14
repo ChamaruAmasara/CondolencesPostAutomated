@@ -1,14 +1,17 @@
 # CondolencesPostAutomated
  This simple program is generating Condolences Post easily for 20th Batch of University of Moratuwa.
- Program is writen in python3
+ The program is writen in python3
 
 # Dependencies
- Pillow - To generate image
- pyperclip - to copy caption to clipboard
+ - Pillow - To generate image
+ - pyperclip - to copy caption to clipboard
  
- Install them via following commands
+ Install Pillow
  ```
  pip3 install pillow
+ ```
+ Install pyperclip
+ ```
  pip3 install pyperclip 
  ```
 
