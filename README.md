@@ -20,7 +20,7 @@
  Then the post will be generated as "result-manual.jpg" and caption will be copied into your clipboard such that you just have to paste it.
 
 # Contributors
- Post Design Template by Kanishka Jayalath
+ Huge Thanks goes to Kanishka Jayalath who made the Post Design Template.
  
 # Example
 ![result-manual](https://raw.githubusercontent.com/ChamaruAmasara/CondolencesPostAutomated/master/result-manual.jpg)
