@@ -21,3 +21,6 @@
 
 # Contributors
  Post Design Template by Kanishka Jayalath
+ 
+# Example
+![result-manual](https://user-images.githubusercontent.com/29033394/137310528-158c989d-479d-473d-afb6-079f8e78a87e.jpg)
